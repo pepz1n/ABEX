@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to top, green, white);
+    background-image: linear-gradient(to top, rgba(202, 247, 202, 0.787), white);
     width: 100%;
     height: 100%;
 }
